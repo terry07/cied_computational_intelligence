@@ -1,4 +1,4 @@
-# cied_computational_intelligence
+# CIED_Computational_Intelligence
 ![cied logo](https://github.com/terry07/cied_computational_intelligence/blob/master/sources/cied_logo.png)
 
 
