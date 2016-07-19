@@ -16,6 +16,7 @@ This consists of 13 seperate laboratory exercises, mainly capturing the followin
 The basic tools that will be exploited are **Weka** and **Python**.
 
 ## Links
+
 -	[Weka](http://www.cs.waikato.ac.nz/ml/weka/)
 -	[Scikit learn](http://scikit-learn.org/stable/)
 -	[Anaconda python](https://www.continuum.io/downloads)
@@ -23,3 +24,9 @@ The basic tools that will be exploited are **Weka** and **Python**.
 -	[Perceptron example1](http://scikit-learn.org/stable/modules/generated/sklearn.linear_model.Perceptron.html)
 -	[Perceptron example2](https://blog.dbrgn.ch/2013/3/26/perceptrons-in-python/)
 
+## Documentation
+- [pdf in Greek](https://app.box.com/s/vekxf85oph7el0v8vr942mq3vbb7x6su)
+
+## Contact
+- Stamatis Karlos (stkarlos@upatras.gr)
+- Zaharakis Ioannis (jzaharak@cti.gr)
