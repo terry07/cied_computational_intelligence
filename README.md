@@ -25,7 +25,7 @@ The basic tools that will be exploited are **Weka** and **Python**.
 -	[Perceptron example2](https://blog.dbrgn.ch/2013/3/26/perceptrons-in-python/)
 
 ## Documentation
-- [pdf in Greek](https://app.box.com/s/vekxf85oph7el0v8vr942mq3vbb7x6su)
+- [pdf in Greek](https://app.box.com/s/vekxf85oph7el0v8vr942mq3vbb7x6su) [version 1]
 
 ## Contact
 - Stamatis Karlos (stkarlos@upatras.gr)
